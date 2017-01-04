@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="artists">Исполнители</string>
+    <string name="example_title">Tycho</string>
+    <string name="example_genre">dance,electronics</string>
+    <string name="example_info">5 альбомов,24 песни</string>
+    <string name="biography">Биография</string>
+    <string name="update">Обновить</string>
+</resources>
